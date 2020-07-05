@@ -1,5 +1,6 @@
 # Site
-repository: sproogen/resume-theme
+#repository: sproogen/resume-theme
+repository: truth998877/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
@@ -24,7 +25,13 @@ github_username:  truth998877
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Tony and I'm a Gas Turbine Performance Engineer, with 17+ years experience in the field.
+  With 17+ years experience in the field of Gas Turbine Performance, 10 years working on Defence projects and 7 years working on Civil, I am actively looking for new opportunities within the Gas Turbine Performance field to further my career and broaden my experience.
+
+  I spent 3 years living in Hanoi, Vietnam, during which time I took roles withinin the IT industry, online education and I teaching English as a foreign language.
+
+  I spent 15 months travelling (July 2008 to Oct 2009), primarily overland, from the UK to Bali, via Japan, and beyond to Australia and New Zealand.
+
+  I am married with one child at present.
 
  # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -40,18 +47,18 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+#  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#   - Rock climbing
+#   - Gaming
+#   - Knitting
+#   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
-
+#remote_theme: sproogen/resume-theme
+remote_theme: truth998877/modern-resume-theme
 sass:
   sass_dir: _sass
   style: compressed

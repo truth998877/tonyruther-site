@@ -1,0 +1,59 @@
+- layout: left 
+  company: Rolls-Royce plc, on behalf of Alten Uk
+  link: www.alten.co.uk
+  job_title: Gas Turbine Performance Engineer
+  dates: Date Range (eg. April 2019 - present)
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+   For this role I am carrying out tasks with the Rolls-Royce Civil Aerospace Performance and Future Projects Departments
+
+   - Trent 7000 Transient Performance Team
+     - Using novel modelling methods to determine the potential effects of signal failures on control system client functions and whole engine performance over the whole operating envelope. This required the devlivery of new methods to bulk execute Rolls-Royce in house engine simulation tooling and to analyse the large number results produced in a timely manner to meet cost and timescale requirements.
+
+   - Future Projects
+     - Produce a novel interface in Matlab between disparate applications creating a integrated model of a rig being developed to study a new aircraft to engine interface system (subject to NDA)  
+
+   - Trent 1000 Performance Team
+     - Analysis of In-service events to support on going monitoring of Rolls-Royce's fleet  Trent 1000 engines. 
+
+- layout: left
+  company: Rolls Royce plc, on behalf of QuEST - Global Engineering
+  link: www.quest-global.com 
+  job_title: Gas Turbine Performance Engineer
+  dates: April 2013 - March 2019
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+   During this employment I undertook a wide variety tasks in a number of different areas within the Rolls-Royce Civil Aerospace Performance Department
+   
+   - Trent XWB Transient Performance team member offering ongoing support of the Trent XWB-84 and supporting the successful certification of the Trent XWB-97
+     - Shaft Failure Assessments
+     - Rotor Overspeed Assessments
+     - Compliance Operability Testing Analysis
+     - Transient Data Calibration
+     - Ground Wind Envelope Definition
+     - General Transient In-service support
+     - Support of In-service Red-Top events and Safety Alert Reports
+   
+   - System Design Operational Support - Service Contract Support Team Member, carrying out a range of activities supporting in-service products
+     - Investigations into seasonal variations occurring within Trent XWB-84 in-service data and calculated engine performance margins, spools speeds, specific fuel consumption and turbine temperature
+     - Assessments into the effectiveness of core washing.
+   
+   - Trent 900 Performance team member supporting the developement of new engine variants
+     - Initial assessment of the effects of EP3 performance improvement on turbine terminal speeds following shaft failure
+   
+   - System Design Operational Support - Production Pass Off team member
+     - Assessments to understand differences between customer and Rolls-Royce in-house results from customer undertaken pass-off testing for a wide variety of engines types including RB211-524, RB211-535, Trent 500, Trent 700 and Trent 800 as part of a quality failure investigation.
+   
+- layout: left
+  company: VNComputing, 413/110, Hoang Quoc Viet, Cau Giay, Ha Noi, Vietnam
+  link: 
+  job_title: Project Coordinator/Administrator
+  dates: Date Range (eg. August 2012 - March 2013)
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+   This role was to coordinate an administer a project which aimed to introduce and market novel and propraitory jpeg (still picture) and mpeg (video) compression algorithms. Furthermore I also taught English as a foreign language to the vietnamese developers of the project.
+
+
