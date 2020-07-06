@@ -6,16 +6,16 @@
   quote: >
 
   description: | # this will include new lines to allow paragraphs
-   For this role I am carrying out tasks with the Rolls-Royce Civil Aerospace Performance and Future Projects Departments
+   For this role I've carried out tasks within the Rolls-Royce Civil Aerospace Performance and Future Projects Departments
 
    - Trent 7000 Transient Performance Team
-     - Using novel modelling methods to determine the potential effects of signal failures on control system client functions and whole engine performance over the whole operating envelope. This required the devlivery of new methods to bulk execute Rolls-Royce in house engine simulation tooling and to analyse the large number results produced in a timely manner to meet cost and timescale requirements.
+     - Using novel modelling methods to determine the potential effects of signal failures on control system client functions and whole engine performance over the whole operating envelope. This required the delivery of new methods to bulk execute Rolls-Royce in house engine simulation tooling and to analyse the large number results produced in a timely manner to meet cost and timescale requirements.
 
    - Future Projects
-     - Produce a novel interface in Matlab between disparate applications creating a integrated model of a rig being developed to study a new aircraft to engine interface system (subject to NDA)  
+     - Produce a novel interface in Matlab between disparate applications (written in python, simulink, simscape and matlab) and creating a integrated model of a rig being developed to study a new aircraft to engine interface (subject to NDA).  
 
    - Trent 1000 Performance Team
-     - Analysis of In-service events to support on going monitoring of Rolls-Royce's fleet  Trent 1000 engines. 
+     - Analysis of In-service events to support on going monitoring of Rolls-Royce's fleet of Trent 1000 engines. 
 
 - layout: top-middle
   company: Rolls Royce plc, on behalf of QuEST - Global Engineering
@@ -34,17 +34,21 @@
      - Transient Data Calibration
      - Ground Wind Envelope Definition
      - General Transient In-service support
-     - Support of In-service Red-Top events and Safety Alert Reports
+     - Investigation in-service Red-Top (safety critical) events and Safety Alert Reports
    
-   - System Design Operational Support - Service Contract Support Team Member, carrying out a range of activities supporting in-service products
+   - System Design Operational Support - Service Contract Support Team Member, carrying out a range of activities supporting in-service Trent products
      - Investigations into seasonal variations occurring within Trent XWB-84 in-service data and calculated engine performance margins, spools speeds, specific fuel consumption and turbine temperature
      - Assessments into the effectiveness of core washing.
    
-   - Trent 900 Performance team member supporting the developement of new engine variants
-     - Initial assessment of the effects of EP3 performance improvement on turbine terminal speeds following shaft failure
-   
+   - Trent 900 Performance team member supporting the developement of a new design variant
+     - Initial assessment of the effects of of various design modifications on turbine terminal speeds following shaft failure
+
+   - Trent 1000 Performance team member 
+     - Supporting of specialist simulated altitude testing 
+     - Support of the Trent 1000 Pack C compilance to specification program including the analysis of engine data
+    
    - System Design Operational Support - Production Pass Off team member
-     - Assessments to understand differences between customer and Rolls-Royce in-house results from customer undertaken pass-off testing for a wide variety of engines types including RB211-524, RB211-535, Trent 500, Trent 700 and Trent 800 as part of a quality failure investigation.
+     - Assessments to understand differences between customer and Rolls-Royce in-house results from customer undertaken engine testing for a wide variety of engines types including RB211-524, RB211-535, Trent 500, Trent 700 and Trent 800 as part of a quality failure investigation.
    
 - layout: top-middle
   company: VNComputing, 413/110, Hoang Quoc Viet, Cau Giay, Ha Noi, Vietnam
@@ -64,7 +68,7 @@
   quote: >
 
   description: | # this will include new lines to allow paragraphs
-   This role was to develop online English lessons as part of an innovative website and social network .
+   This role was to develop online English lessons as part of an innovative educational website and social network, be the 'voice of the website' and to also teach in classroom environment.
 
 - layout: top-middle
   company: SMARTCOM JSC, 33/41 Thai Ha Street, Dong Da District, Ha Noi, Vietnam
@@ -74,7 +78,7 @@
   quote: >
 
   description: | # this will include new lines to allow paragraphs
-   For this role I undertook the teaching of various groups of around 25 vietnamese nationals English at a multitude of levels from beginner/novice, through to advanced.
+   For this role I undertook the teaching of English to various groups of around 25 vietnamese national at a multitude of levels from beginner/novice, through to advanced.
 
 - layout: top-middle
   company: Volunteer Teacher of English as a Second Language
@@ -107,7 +111,7 @@
   quote: >
    PIONEERING THE POWER THAT MATTERS - Rolls-Royce pioneers cutting-edge technologies that deliver clean, safe and competitive solutions to meet our planet’s vital power needs.
   description: | # this will include new lines to allow paragraphs
-    As a senior Engineer, this role required the planning, execution and reporting of Gas Turbine (jet) engine tests, theoretical studies and risk management on a variety of products and projects. This included product improvement/development, investigation and diagnosis of fleet and individual engine problems through interpretation and understanding of engine test data, the calibration of test plant and measurement systems, the creation of computer based models to allow performance predictions, theoretical studies and statistical analysis of engine test data to identify manufacturing trends. The role also required supervision/training of junior engineers' and being involved with the planning, development and testing of the next generation Rolls-Royce corporate in-house computing environment for performance engineers.
+    As a senior Engineer, this role required the planning, execution and reporting of Gas Turbine (jet) engine tests, theoretical studies and risk management on a variety of products and projects. This included product improvement/development, investigation and diagnosis of fleet and individual engine problems through interpretation and understanding of engine test data, the calibration of test plant and measurement systems, the creation of computer based models to allow performance predictions, theoretical studies and statistical analysis of engine test data to identify manufacturing trends. The role also required supervision/training of junior engineers and being involved with the planning, development and testing of the next generation Rolls-Royce corporate in-house computing environment for performance engineers.
 
 - layout: top-middle
   company: British Energy, Barnwood, Gloucestershire, England.
