@@ -31,7 +31,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I spent 15 months travelling (July 2008 to Oct 2009), primarily overland, from the UK to Bali, via Japan, and beyond to Australia and New Zealand.
 
-  I am married with one child at present.
+  I am married with two children.
 
  # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -48,13 +48,13 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: More About Me
 more_content: | # this will include new lines to allow paragraphs
 
-    - Astronomy - *I have recently started doing back garden astronomy. I own two telescopes a 127mm f/7.87 Newtonian reflector and an 80mm f/15 refractor*
+    - **Astronomy** - *I have recently started doing back garden astronomy. I own two telescopes a 127mm f/7.87 Newtonian reflector and an 80mm f/15 refractor*
 
-    - Karate - *I have practiced karate since university*
+    - **Karate** - *I have practiced karate since university*
 
-    - Linux Terminal - *Bash, tmux, vi/m, lynx browser - recently made a real effort to carry out most of my work from the linux command line, including the creation of this site and the sites I detail in the 'Projects' section*
+    - **Linux Terminal** - *Bash, tmux, vi/m, lynx browser - recently made a real effort to carry out most of my work from the linux command line, including the creation of this site and the sites I detail in the 'Projects' section*
 
-    - Coding - *I am activly increasing my coding skills both at work and outside, mainly MATLAB and Bash Scripting, although recently my role has required me to work in npss (Numerical Propulsion System Simulation, an advanced object-oriented, non-linear thermodynamic modeling environment used by the aerospace industry for modeling turbomachinery, air-breathing propulsion systems, liquid rocket engines, engine control systems, and system model integration)*
+    - **Coding** - *I am actively increasing my coding skills both at work and outside, mainly MATLAB and Bash Scripting, although recently my role has required me to work in npss (Numerical Propulsion System Simulation, an advanced object-oriented, non-linear thermodynamic modeling environment used by the aerospace industry for modeling turbomachinery, air-breathing propulsion systems, liquid rocket engines, engine control systems, and system model integration)*
 
     - [Gaming](https://www.fortiesgamer.com) - *On Linux!*
 
