@@ -1,8 +1,16 @@
 - layout: top-middle
-  name: 
-  link: 
+  name: My Physics Notes
+  link: https://www.myphysicsnotes.com
   github:
   quote: >
     
-  description: | # this will include new lines to allow paragraphs
+  description:  My Physics Notes is a site I am developing which will contain a comprehensive set of physics study notes from A-Level to undergradutate levels. 
+
+- layout: top-middle
+  name: My Chemistry Notes
+  link: https://www.mychemistrysnotes.com
+  github:
+  quote: >
     
+  description:  My Chemistry Notes is a site I am developing which will contain a comprehensive set of chemistry study notes from A-Level to undergradutate levels. 
+  
