@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: tonyruther.com
+Token: f3acdd700318e0c5df571c42740ed0f3feb6c25f619e448d832e5dce015ca92c
